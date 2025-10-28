@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export const Head = () => {
     return (
-        <header className="hidden  lg:flex justify-around items-center mt-10 py-3 bg-purple-700 text-gray-300 rounded-md">
+        <header className="hidden  md:flex justify-around items-center mt-10 py-3 bg-purple-700 text-gray-300 rounded-md">
 
             <nav className="flex gap-4 list-none">
                 <li>
